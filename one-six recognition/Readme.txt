@@ -1,8 +1,8 @@
-## Description
+#Description
 This is a program to classify input voices as One or Six
 It also generates cropped clips of the utterances, based on a threshold value(configurable via a variable).
 
-## How to run the code
+#How to run the code
 1. Compile main.cpp (Important: use the '-std=c++11' option else it wont compile)
 	g++ -std=c++11 -o main main.cpp
 2. Run main.exe
