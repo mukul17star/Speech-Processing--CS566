@@ -1,6 +1,8 @@
 # LBG Alogrithm
+Linde Buzo Gray Algorithm for for classifying speech signal. Used for classifying vowels and creation of codebook.
 
-Input
+Input:
+Universe file which contains Ci(Cepstral coefficient) values of the speech signal.
 To run replace the current "myUniverse.txt" file with custom universe path or keep the same file.
 
 Output
